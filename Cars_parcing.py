@@ -1,3 +1,5 @@
+# I nededed some data for test how work pandas and i downloaded to my sql3 DB 180k+ listings of cars, unfurgt. Unfortunately, I now know that I bought my car a little expensive
+
 import re
 import requests
 import time as t
