@@ -422,12 +422,12 @@ try:
                     window_cheker()
 
                     sleep(5)
-                    print("мы в дерьме")
+                    print("я хз что не так")
                     continue
 
             break
 except:
-    print("я хз что не так заебала вся эта хуйня")
+    print("я хз что не так")
 
 
 
